@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lanaajaboleh
 - 👀 I’m interested in UI and UX Designing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on instagram and linkedin
 
 <!---
